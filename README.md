@@ -17,6 +17,15 @@ API 키 발급 페이지:
 
 위 페이지에서 활용신청 후 받은 API 키를 `--api-key` 옵션이나 GUI 입력창에 넣어 사용하면 됩니다.
 
+## 다운로드
+
+Windows 실행 파일은 GitHub 릴리즈 페이지에서 받을 수 있습니다.
+
+- [Releases 페이지](https://github.com/simdorei/usdrate/releases)
+- [최신 릴리즈 바로가기](https://github.com/simdorei/usdrate/releases/latest)
+
+릴리즈 페이지의 `Assets`에서 `usdrate.exe`를 다운로드한 뒤 바로 실행하면 됩니다.
+
 ## 포함 파일
 
 - `usdrate.py`: GUI와 CLI를 함께 제공하는 메인 스크립트
