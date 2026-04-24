@@ -1,0 +1,8 @@
+build_light/
+dist_light/
+__pycache__/
+*.spec
+
+fx_uploader/
+build_fx_uploader.ps1
+fx_uploader_launcher.py
